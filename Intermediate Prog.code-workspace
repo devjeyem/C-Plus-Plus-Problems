@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../Java Program"
+        },
+        {
+            "path": "../C++"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "iostream": "cpp",
+            "cmath": "cpp"
+        }
+    }
+}

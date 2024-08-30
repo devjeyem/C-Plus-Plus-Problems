@@ -1,0 +1,5 @@
+Average Score 1: 84.6
+Average Score 2: 75.2
+Standard Deviation 1: 7.60526
+Standard Deviation 2: 9.30376
+Pearson Correlation Coefficient: 0.885842
